@@ -48,4 +48,6 @@ public class CipherTest {
         Cipher cipher = new Cipher("z");
         assertEquals("a", cipher.decryptText("right",1));
     }
+
+    //random changes here
 }
